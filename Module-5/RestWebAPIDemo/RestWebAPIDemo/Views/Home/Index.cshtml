@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<input type="text" name="name1" id="txt1" value="" />
+<input type="button" name="name2" id="btn1" value="Get Name By Id" />
+<input type="button" name="name3" id="btn2" value="Get All Items" />
+<ul id="names"></ul>
+
+<script>
+    $(document).ready(function () {
+
+        $("#btn2").click(function () {
+
+            $("#names").empty();
+            $.getJSON("/api/WebAPI/", function (data) {
+
+                $.each(data, function (key, val) {
+                    $("<li>" + val + "</li>").appendTo($("#names"));
+                })
+            })
+        })
+
+        $("#btn1").click(function () {
+
+            var id = $("#txt1").val();
+            $.getJSON("/api/WebAPI/" + id, function (data) {
+
+                alert(data);
+            })
+        })
+    })
+
+</script>

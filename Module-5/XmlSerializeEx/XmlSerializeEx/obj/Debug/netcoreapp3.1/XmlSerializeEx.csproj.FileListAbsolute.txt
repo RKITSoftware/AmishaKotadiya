@@ -1,0 +1,14 @@
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\obj\Debug\netcoreapp3.1\XmlSerializeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\obj\Debug\netcoreapp3.1\XmlSerializeEx.AssemblyInfoInputs.cache
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\obj\Debug\netcoreapp3.1\XmlSerializeEx.AssemblyInfo.cs
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\obj\Debug\netcoreapp3.1\XmlSerializeEx.csproj.CoreCompileInputs.cache
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\bin\Debug\netcoreapp3.1\XmlSerializeEx.exe
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\bin\Debug\netcoreapp3.1\XmlSerializeEx.deps.json
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\bin\Debug\netcoreapp3.1\XmlSerializeEx.runtimeconfig.json
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\bin\Debug\netcoreapp3.1\XmlSerializeEx.runtimeconfig.dev.json
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\bin\Debug\netcoreapp3.1\XmlSerializeEx.dll
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\bin\Debug\netcoreapp3.1\XmlSerializeEx.pdb
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\obj\Debug\netcoreapp3.1\XmlSerializeEx.dll
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\obj\Debug\netcoreapp3.1\XmlSerializeEx.pdb
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\obj\Debug\netcoreapp3.1\XmlSerializeEx.genruntimeconfig.cache
+C:\Users\SSC\source\repos\XmlSerializeEx\XmlSerializeEx\obj\Debug\netcoreapp3.1\XmlSerializeEx.csproj.AssemblyReference.cache

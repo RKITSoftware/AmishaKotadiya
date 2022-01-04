@@ -1,0 +1,14 @@
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\bin\Debug\netcoreapp3.1\BinarySerializeEx.exe
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\bin\Debug\netcoreapp3.1\BinarySerializeEx.deps.json
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\bin\Debug\netcoreapp3.1\BinarySerializeEx.runtimeconfig.json
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\bin\Debug\netcoreapp3.1\BinarySerializeEx.runtimeconfig.dev.json
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\bin\Debug\netcoreapp3.1\BinarySerializeEx.dll
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\bin\Debug\netcoreapp3.1\BinarySerializeEx.pdb
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\obj\Debug\netcoreapp3.1\BinarySerializeEx.csproj.AssemblyReference.cache
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\obj\Debug\netcoreapp3.1\BinarySerializeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\obj\Debug\netcoreapp3.1\BinarySerializeEx.AssemblyInfoInputs.cache
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\obj\Debug\netcoreapp3.1\BinarySerializeEx.AssemblyInfo.cs
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\obj\Debug\netcoreapp3.1\BinarySerializeEx.csproj.CoreCompileInputs.cache
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\obj\Debug\netcoreapp3.1\BinarySerializeEx.dll
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\obj\Debug\netcoreapp3.1\BinarySerializeEx.pdb
+C:\Users\SSC\source\repos\BinarySerializeEx\BinarySerializeEx\obj\Debug\netcoreapp3.1\BinarySerializeEx.genruntimeconfig.cache
