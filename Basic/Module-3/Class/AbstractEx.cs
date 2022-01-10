@@ -22,6 +22,7 @@ namespace abstractExample
     {
        static void Main(string[] args)
        {
+           // object of user class
            User objuser = new User();
            Console.WriteLine("Abstract Class Example\n");
            objuser.GetDetails("Amisha Kotadiya", "Lalpur", 21);
